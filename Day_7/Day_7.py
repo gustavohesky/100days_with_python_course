@@ -127,6 +127,7 @@ while keep_playing == "yes":
         if lives == 0:
             game_over = True
             print("You lose.")
+            print(f"The word was {chosen_word}")
 
         if "_" not in display:
             game_over = True

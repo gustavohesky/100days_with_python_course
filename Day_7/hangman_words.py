@@ -1,19 +1,31 @@
 word_list = [
-    "python", "variable", "function", "loop", "string", "integer", "boolean",
-    "list", "tuple", "dictionary", "set", "object", "class", "method",
-    "inheritance", "encapsulation", "polymorphism", "algorithm", "debug",
-    "compile", "execute", "syntax", "exception", "library", "framework",
-    "package", "module", "import", "export", "parameter", "argument",
-    "return", "condition", "iteration", "recursion", "binary", "decimal",
-    "operator", "expression", "statement", "indentation", "comment",
-    "development", "software", "hardware", "network", "database", "query",
-    "server", "client", "frontend", "backend", "fullstack", "api",
-    "request", "response", "json", "html", "css", "javascript",
-    "version", "control", "github", "repository", "branch", "commit",
-    "merge", "conflict", "testing", "unittest", "debugger", "performance",
-    "optimization", "security", "encryption", "authentication",
-    "authorization", "session", "cookie", "deployment", "container",
-    "docker", "kubernetes", "cloud", "virtualization", "thread",
-    "process", "parallel", "asynchronous", "synchronous", "queue",
-    "stack", "tree", "graph", "search", "sorting", "hash", "index"
+    "apple", "banana", "orange", "grape", "lemon", "mango", "peach",
+    "pear", "plum", "cherry", "melon", "kiwi", "papaya", "fig",
+
+    "dog", "cat", "horse", "tiger", "lion", "zebra", "panda",
+    "monkey", "rabbit", "mouse", "sheep", "goat", "cow", "bear",
+
+    "table", "chair", "window", "door", "floor", "ceiling",
+    "kitchen", "bedroom", "bathroom", "garden", "garage",
+
+    "car", "bus", "train", "plane", "boat", "bike", "truck",
+
+    "spoon", "fork", "knife", "plate", "cup", "bottle", "glass",
+
+    "shirt", "pants", "shoes", "jacket", "hat", "dress",
+
+    "brazil", "canada", "france", "germany", "italy", "spain",
+    "portugal", "ireland", "china", "japan", "india",
+
+    "red", "blue", "green", "yellow", "black", "white", "brown",
+
+    "sun", "moon", "star", "sky", "cloud", "rain", "wind",
+
+    "river", "mountain", "ocean", "beach", "forest", "desert",
+
+    "happy", "sad", "angry", "tired", "hungry", "thirsty",
+
+    "school", "teacher", "student", "book", "pen", "paper",
+
+    "music", "movie", "game", "ball", "toy", "phone"
 ]
